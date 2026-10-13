@@ -1,0 +1,13 @@
+# Persönliche Daten bleiben lokal (gilt auch, wenn dieser Ordner allein als Repo genutzt wird)
+athletes/
+plans/
+logs/
+strava/.env
+strava/*_activities.md
+race/event*.md
+!race/event.example.md
+claude-project/*
+!claude-project/instructions.md
+!claude-project/coaching-guide.md
+__pycache__/
+.venv/

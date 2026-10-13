@@ -1,0 +1,4 @@
+# Personal data, stays local
+profile/*
+!profile/preferences.example.md
+requirements/
